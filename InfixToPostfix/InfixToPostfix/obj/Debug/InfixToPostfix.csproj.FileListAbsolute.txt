@@ -1,0 +1,12 @@
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+C:\Users\nchabukswar\Desktop\My AllAssignment\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+C:\Users\mmose\Documents\Visual Studio 2015\Projects\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache

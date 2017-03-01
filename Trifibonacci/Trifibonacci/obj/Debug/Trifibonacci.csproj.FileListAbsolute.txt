@@ -1,0 +1,6 @@
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\bin\Debug\Trifibonacci.exe.config
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\bin\Debug\Trifibonacci.exe
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\bin\Debug\Trifibonacci.pdb
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\obj\Debug\Trifibonacci.csprojResolveAssemblyReference.cache
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\obj\Debug\Trifibonacci.exe
+c:\users\mmose\documents\visual studio 2015\Projects\Trifibonacci\Trifibonacci\obj\Debug\Trifibonacci.pdb
